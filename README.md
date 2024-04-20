@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joel-prashanth
-- 👀 I’m interested in Computer Vision and applied AI.
-- 🌱 I’m currently learning Harvard CS50 Programming with Python.
-- 💞️ I’m looking to collaborate on Computer Vision and AI projects.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning application development with Next.js
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me joel.prashanth0528@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-Hi 👋 My name is Joel Prashanth
+Hi 👋 I'm Joel Prashanth
 ===============================
 
 Full-stack Application Developer

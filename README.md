@@ -6,7 +6,7 @@ Full-stack Application Developer
 
 As a full-stack application developer, I craft dynamic and user-friendly web applications from concept to deployment. With expertise in both front-end and back-end technologies, I leverage my skills to create seamless digital experiences that meet the unique needs of clients and users alike.
 
-*   🌍  I'm based in Chennai
+*   🌍  I'm based in Chennai, India.
 *   ✉️  You can contact me at [joel.prashanth0528@gmail.com](mailto:joel.prashanth0528@gmail.com)
 *   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on Web applications.

@@ -1,7 +1,7 @@
 Hi 👋 My name is Joel Prashanth
 ===============================
 
-Full-stack Application Developer
+I am a Full-stack Application Developer
 --------------------------------
 
 As a full-stack application developer, I specialize in crafting dynamic and user-friendly web applications from concept to deployment. With expertise in both front-end and back-end technologies, I leverage my skills to create seamless digital experiences that meet the unique needs of clients and users alike.

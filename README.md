@@ -9,7 +9,7 @@ As a full-stack application developer, I specialize in crafting dynamic and user
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [joel.prashanth0528@gmail.com](mailto:joel.prashanth0528@gmail.com)
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on a Fleet Management System for Warehouse Automation.
+* 🤝  I'm open to collaborating on the Design and Development of Web applications.
 
 ### Skills
 

@@ -8,7 +8,7 @@ As a full-stack application developer, I specialize in crafting dynamic and user
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [joel.prashanth0528@gmail.com](mailto:joel.prashanth0528@gmail.com)
-* 🧠  I'm currently building a booking SaaS for turfs
+* 🧠  I'm currently building useful software as per the conditions at my workplace
 * 🤝  I'm open to collaborating on the Design and Development of Web applications.
 
 ### Skills
